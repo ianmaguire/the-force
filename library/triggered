@@ -1,0 +1,17 @@
+# this file is generated via https://github.com/ianmaguire/trigger-warning/dda10c7c6cb05e6de502d838f5646f688b874ca6/generate-stackbrew-library.sh
+
+Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon),
+             Joseph Ferguson <yosifkit@gmail.com> (@yosifkit)
+GitRepo: https://github.com/ianmaguire/trigger-warning.git
+
+Tags: 2.0
+GitCommit: dda10c7c6cb05e6de502d838f5646f688b874ca6
+Directory: 2.0
+
+Tags: 1.1
+GitCommit: dda10c7c6cb05e6de502d838f5646f688b874ca6
+Directory: 1.1
+
+Tags: 1.0
+GitCommit: dda10c7c6cb05e6de502d838f5646f688b874ca6
+Directory: 1.0
