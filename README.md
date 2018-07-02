@@ -1,1 +1,1 @@
-# This repo's sole purpose is to trigger a Travis CI build.
+# This repo's sole purpose is to be triggered by Travis CI.
